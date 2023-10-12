@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<string.h>
+#include<signal.h>
+#include<sys/types.h>
+#include<unistd.h>
+#include<stdlib.h>
+#include<sys/shm.h>
+#include<fcntl.h>
+#include<sys/stat.h>
+#include<sys/ipc.h>
+#include<sys/sem.h>
